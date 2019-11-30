@@ -1,0 +1,7 @@
+{
+  "name": "criptocurrency",
+  "short_name": "criptocurrency",
+  "description": "Criptomonedas",
+  "start_url": "/",
+  "display": "standalone"
+}
